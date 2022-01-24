@@ -46,7 +46,7 @@ If the player is slain by one of the Keypers (the red enemies), it's game over.
 ### Music
 * Song : Grim Waltz - Retro Gaming Version [Royalty Free]
 * Music provided and produced by LonePeakMusic 
-* Video Link : https://youtu.be/4vyjqWSBHx8
+* [Video Link](https://youtu.be/4vyjqWSBHx8)
 	
 ### [Font](https://vrtxrry.itch.io/dungeonfont)
 * Created By [vrtxrry](https://itch.io/profile/vrtxrry)
