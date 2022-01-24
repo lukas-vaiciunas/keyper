@@ -51,4 +51,4 @@ Your enemies move once for every two times you move, so plan your movements ahea
 * [Video Link](https://youtu.be/4vyjqWSBHx8)
 	
 ### [Font](https://vrtxrry.itch.io/dungeonfont)
-* Created By [vrtxrry](https://itch.io/profile/vrtxrry)
+* Created By [vrtxrry](https://itch.io/profile/vrtxrry) and [0x72](https://0x72.itch.io/)
