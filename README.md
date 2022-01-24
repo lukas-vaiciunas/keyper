@@ -14,6 +14,8 @@ In each level the player must collect three keys: the red key, the green key, an
 
 If the player is slain by one of the Keypers (the red enemies), it's game over.
 
+Your enemies move once for every two times you move, so plan your movements ahead of time!
+
 ## CONTROLS
 ### ESCAPE
 * Pause Game
