@@ -1,5 +1,7 @@
 # Keyper, developed by [Lukas Vaiciunas](https://lukas-vaiciunas.itch.io/)
 
+### [Click Here to Download on itch.io](https://lukas-vaiciunas.itch.io/keyper)
+
 ## INFO
 Keyper is an infinite, procedurally generated, perma-death, turn-based roguelike/roguelite developed in 72 hours for [Mini Jam 98](https://itch.io/jam/mini-jam-98-empty).
 
