@@ -30,8 +30,8 @@ If the player is slain by one of the Keypers (the red enemies), it's game over.
 ### D/Arrow RIGHT
 * Move RIGHT
 
-### Menu Selection
-* Mouse Button 1
+### Mouse Button 1
+* Menu Selection
 
 ## CREDITS
 ### Programming
@@ -41,7 +41,7 @@ If the player is slain by one of the Keypers (the red enemies), it's game over.
 * [Lukas Vaiciunas](https://lukas-vaiciunas.itch.io/)
 
 ### Sound Effects
-* [Created in SFXR](https://www.drpetter.se/project_sfxr.html)
+* Created in [SFXR](https://www.drpetter.se/project_sfxr.html)
 	
 ### Music
 * Song : Grim Waltz - Retro Gaming Version [Royalty Free]
